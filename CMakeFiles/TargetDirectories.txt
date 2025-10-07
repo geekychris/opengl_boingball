@@ -1,0 +1,3 @@
+/Users/chris/code/warp_experiments/opengl_boing/CMakeFiles/BoingBall.dir
+/Users/chris/code/warp_experiments/opengl_boing/CMakeFiles/edit_cache.dir
+/Users/chris/code/warp_experiments/opengl_boing/CMakeFiles/rebuild_cache.dir
