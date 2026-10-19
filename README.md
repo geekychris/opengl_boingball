@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="Opengl Boingball logo" width="180">
+</p>
+
 # OpenGL Boing Ball Demo
 
 A 3D homage to the classic Amiga boing ball demo, implemented in C++ using OpenGL. Features a red and white checkered ball bouncing inside a wireframe cube with physics simulation and sound effects.
